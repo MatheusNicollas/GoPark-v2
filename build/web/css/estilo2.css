@@ -1,0 +1,104 @@
+#fundo {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+ 
+#fundo img {
+    width: 100%; 
+    position: absolute;
+}
+
+#logo img{
+    float: left;
+    position: relative;
+    margin-top: -19%;
+    left: 35%;
+}
+
+#vaga1 img{
+    width: 12%;
+    float: left;
+    position: relative;
+    left: 32.2%;
+    margin-top: 34.7%;
+}   
+
+#vaga2 img{
+    width: 12%;
+    float: left;
+    position: relative;
+    left: 32.6%;
+    margin-top: 34.7%;
+}
+
+#vaga3 img{
+    width: 12%;
+    position: relative;
+    left: 32.9%;
+    margin-top: 34.7%;
+    float: left;
+}
+
+#vaga4 img{
+    width: 12%;
+    position: relative;
+    float: left;
+    left: -3.8%;	
+    margin-top: 57%;
+}
+
+#vaga5 img{
+	width: 12%;
+    position: relative;
+	float: left;
+	left: -3.4%;	
+	margin-top: 57%;
+}
+
+#vaga6 img{
+    width: 12.1%;
+    position: relative;
+    float: left;
+    left: -3%;	
+    margin-top: 57%;
+}
+
+#vaga7 img{
+    width: 12%;
+    position: relative;
+    float: left;
+    left: -49.8%;	
+    margin-top: -4.8%;
+    -ms-transform: rotate(80deg);
+    -webkit-transform: rotate(80deg);
+    -moz-transform: rotate(80deg);
+    -o-transform: rotate(80deg);
+    transform: rotate(90deg);
+}
+
+#vaga8 img{
+    width: 11.7%;
+    position: relative;
+    float: left;
+    left: -39.5%;	
+    margin-top: -4.4%;
+    -ms-transform: rotate(80deg);
+    -webkit-transform: rotate(80deg);
+    -moz-transform: rotate(80deg);
+    -o-transform: rotate(80deg);
+    transform: rotate(90deg);
+}
+
+#vaga9 img{
+    width: 11.9%;
+    position: relative;
+    float: left;
+    left: -17.6%;	
+    margin-top: -22%;
+    -ms-transform: rotate(80deg);
+    -webkit-transform: rotate(80deg);
+    -moz-transform: rotate(80deg);
+    -o-transform: rotate(80deg);
+    transform: rotate(90deg);
+}
